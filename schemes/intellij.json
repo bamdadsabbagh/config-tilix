@@ -1,0 +1,33 @@
+{
+  "name": "intellij",
+  "comment": "IntelliJ Light theme",
+  "foreground-color": "#fafafa",
+  "background-color": "#383a42",
+  "use-theme-colors": false,
+  "use-highlight-color": false,
+  "highlight-foreground-color": "#f0f0f0",
+  "highlight-background-color": "#bfceff",
+  "use-cursor-color": false,
+  "cursor-foreground-color": "#cacaca",
+  "cursor-background-color": "#cacaca",
+  "use-badge-color": true,
+  "badge-color": "#d4d4d4",
+  "palette": [
+    "#383a42",
+    "#e45649",
+    "#50a14f",
+    "#c18401",
+    "#001cac",
+    "#a626a4",
+    "#007074",
+    "#fafafa",
+    "#383a42",
+    "#e45649",
+    "#50a14f",
+    "#c18401",
+    "#001cac",
+    "#a626a4",
+    "#007074",
+    "#fafafa"
+  ]
+}
